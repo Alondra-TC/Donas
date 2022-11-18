@@ -33,19 +33,22 @@
     "imagen":"https://www.krispykreme.mx/wp-content/uploads/2022/11/bites-conejo-turin.png"
     "title": "Bites Turín",
     "precio": "$16.00"
-  },v{
+  },
+  {
     "userId": 6,
     "id": 6,
     "imagen":"https://www.krispykreme.mx/wp-content/uploads/2021/07/krispykreme-donas-rellena-de-crema.png"
     "title": "Dona rellena de crema",
     "precio": "$16.00"
-  },{
+  },
+  {
     "userId": 7,
     "id": 7,
     "imagen":"https://www.krispykreme.mx/wp-content/uploads/2021/10/krispykreme-donas-glaseada-original-2.png"
     "title": "Dona glaseada",
     "precio": "$16.00"
-  },{
+  },
+  {
     "userId": 8,
     "id": 8,
     "imagen":"https://www.krispykreme.mx/wp-content/uploads/2022/11/krispykreme-donas-pumpkin.png"
